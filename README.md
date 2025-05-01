@@ -1,4 +1,4 @@
-# Live streaming demo
+# Kubernetes-based-Video-Streaming-Optimization
 
 Demo project to experiment with live video streaming, nodejs and kubernetes.
 
